@@ -1,4 +1,4 @@
-Smart Sales Predictor for Amazon Advertising Campaigns
+## Smart Sales Predictor for Amazon Advertising Campaigns
 
 A machine learning project that predicts sales revenue (USD) from Amazon pay per click advertising metrics.
 
